@@ -1,0 +1,9 @@
+.homepage {
+  display: flex;
+}
+
+.homepage__card {
+  justify-content: center;
+  text-align: center;
+  margin-left: 10%;
+}
